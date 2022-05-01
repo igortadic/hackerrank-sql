@@ -1,2 +1,1 @@
-# hackerrank-sql
-hackerrank-sql
+Challanges from Hackerrank SQL.
